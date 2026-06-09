@@ -1,6 +1,6 @@
 cask "ocote" do
-  version "0.5.7"
-  sha256 "b421d551e44d34531941819cecb0ab637f1a4b7445492f328c2658616d34361d"
+  version "0.5.8"
+  sha256 "cd662d744351e44aeef2429c8b69e0e7158bbc75014c52462fab83637c289c0f"
 
   url "https://github.com/Teshre/Ocote/releases/download/v#{version}/Ocote_#{version}_aarch64.dmg",
       verified: "github.com/Teshre/Ocote/"
