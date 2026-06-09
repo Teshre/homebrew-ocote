@@ -1,8 +1,8 @@
 cask "ocote" do
-  version "0.5.4"
-  sha256 "28fb74ea7afe59f37ad5d8f71f063c67cd321a569eb134fd6438caa608e1bee4"
+  version "0.5.5"
+  sha256 "485384ff242e998d8b74ddcfc6d502a070ece9eb37673ac188738c9a301b1caf"
 
-  url "https://github.com/Teshre/Ocote/releases/download/v#{version}/Ocote_aarch64.app.tar.gz",
+  url "https://github.com/Teshre/Ocote/releases/download/v#{version}/Ocote_#{version}_aarch64.dmg",
       verified: "github.com/Teshre/Ocote/"
   name "Ocote"
   desc "Terminal offline, sin IA, hecha para humanos"
